@@ -1,0 +1,16 @@
+try=login.jsp
+login=LoginServlet
+search=SearchServlet
+logout=LogoutServlet
+delete=DeleteServlet
+update=updatequiz.jsp
+updateQuiz=UpdateQuizServlet
+addQ=addquiz.jsp
+addQuiz=AddQuizServlet
+createuser=createuser.jsp
+signup=SignUpServlet
+doquiz=DoQuizServlet
+process=ProcessServlet
+choosesubject=choosesubject.jsp
+historyS=HistoryServlet
+searchhistory=SearchHistoryServlet
